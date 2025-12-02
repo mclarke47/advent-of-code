@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	leftTurn = "L"
+	leftTurn  = "L"
 	rightTurn = "R"
 )
 
